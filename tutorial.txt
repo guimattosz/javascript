@@ -7,6 +7,8 @@ git clone url_do_repositório
 git add .
 git commit -m "tutorial"
 git push
+git status (Verifica o status do respositório)
+git pull (Sincronza as informações do respositório)
 
 Gerar token GitHub
 1) Settings
