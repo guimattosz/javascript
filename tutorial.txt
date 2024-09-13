@@ -1,6 +1,9 @@
+Aula 10/09 
+
 GIT e GITHUB
 
 Comandos básicos do git:
+
 git config --global user.name "Seu nome"
 git config --global user.email "seuemail@email.com"
 git clone url_do_repositório
@@ -15,3 +18,30 @@ Gerar token GitHub
 2) Developer Settings
 3) Token classic
 4) Gerar o token selecionando tudo, guardar o token
+
+_________________________________________________________
+
+Aula 12/09 
+
+Boas práticas na programação:
+    1) Cabeçalho de documentação usando > /** 
+       
+       To be Continued...
+
+Node.js: Plataforma que permite execusão do JavaScript fora do browser de internet. 
+        (https://nodejs.org/en/download/package-manager?utm_cta=website-data-cloud-dummies)
+        Obs: Sempre usar/baixar versão LTS
+
+        Comandos para confirmação: 
+        node -v: Diz a versão instalada
+    
+ npm: Gerenciador de Pacotes (Biblioteca, extensões etc.)
+        (https://www.npmjs.com/)
+        Exp: colors.js
+        Obs: npm está relacionado a pasta do projeto. (São instalados na raiz do projeto e não no sistema)
+
+        Comandos para confirmação: 
+        npm -v: Diz a versão instalada
+        npm ls: Lista pacotes instalados
+        npm init: Inicia um novo projeto de JavaScript
+                  Cria um arquivo de nome package.json
